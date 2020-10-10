@@ -1,4 +1,4 @@
-package br.com.souluizleme.resultadoDaLoteria.redis;
+package br.com.souluizleme.resultadoDaLoteria;
 
 import redis.clients.jedis.Jedis;
 

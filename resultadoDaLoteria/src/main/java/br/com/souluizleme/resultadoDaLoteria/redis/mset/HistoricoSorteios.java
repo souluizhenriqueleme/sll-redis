@@ -27,7 +27,4 @@ public class HistoricoSorteios {
 
         System.out.println(resultado);
     }
-
-
-
 }

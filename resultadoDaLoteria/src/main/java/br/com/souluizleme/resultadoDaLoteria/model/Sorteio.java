@@ -37,6 +37,10 @@ public class Sorteio {
         return ganhadores;
     }
 
+    public String getNumGanhadores() {
+        return ganhadores.toString();
+    }
+
     public String toJson() {
         return new Gson().toJson(this);
     }
